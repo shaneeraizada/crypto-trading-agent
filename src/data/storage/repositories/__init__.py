@@ -1,4 +1,4 @@
 # ============================================================================
-# src/api/middleware/__init__.py
+# src/data/storage/repositories/__init__.py
 # ============================================================================
-"""API middleware components."""
+"""Repository pattern implementations."""
